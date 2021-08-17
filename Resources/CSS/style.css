@@ -17,12 +17,18 @@ body{
     font-weight: 300;
     font-size: 42px;
 }
+.video
+{
+    margin: 0 auto;
+}
+.img{
+    margin-top: 24px;
+}
 h2{
     font-size: 21px;
     color: gray;
 }
-/*Havnt Implemented
 .trademark{
     text-align: right;
     color: gray;
-*\
+}
